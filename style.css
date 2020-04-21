@@ -1,0 +1,41 @@
+body {
+    background-color: green;
+  }
+  
+  header {
+    width: 300px;
+    background-image: none;
+  }
+  
+  .header__title {
+    color: blue;
+    font-size: 45px;
+    border: 2px solid;
+    padding: 20px;
+    border-right-color: red;
+    border-left-color: white;
+    border-top-color: black;
+    border-bottom-color: gray;
+    border-top-width: 5px;
+    border-right-width: 5px;
+  }
+  
+  .section__title {
+    border-left: 10px solid yellow;
+    margin: 20px;
+    box-shadow: 5px 3px 4px 2px gray;
+    font-weight: 500px;
+  }
+  
+  .section__block_additional {
+    display: none;
+  }
+  
+  .section__description {
+    font-weight: bold;
+  }
+  
+  .footer__description {
+    border: 2px solid black;
+    height: 30px;
+  }
